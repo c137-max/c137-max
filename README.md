@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 😁  
+### Reach Me By: [OutLook Mail](www.c137-max.outlook.com)
+```python
+if not mood.sad():
+  mood.just_keep_happy()
+else:
+  mood.be_awesome()
+```
 
 <!--
 **c137-max/c137-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
