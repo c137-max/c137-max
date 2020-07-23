@@ -1,6 +1,12 @@
-### Hi 😁  
-### Reach Me By: [OutLook Mail](www.c137-max.outlook.com)
+### Hi! 🧐  
+### 😃 I am currently studying.
+### 😵 But I don't know anything now. 
+### 💖 Please teach more. 
+### 📧 Reach Me By [OutLook Mail](www.c137-max.outlook.com)  
+### 
+### 
 ```python
+# life motto
 if not mood.sad():
   mood.just_keep_happy()
 else:
