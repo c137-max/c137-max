@@ -5,12 +5,12 @@
 ### 📧 Reach Me By [OutLook Mail](https://www.c137-max@outlook.com)  
 ### 
 ### 
-```python
-# life motto
-if not mood.sad():
-  mood.just_keep_happy()
-else:
-  mood.be_awesome()
+```java script
+// life motto
+if (sad() === true){
+  sad().stop();
+  beAwesome();
+}
 ```
 
 <!--
